@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Narmadha.<br><br>I’m learning UI/UX design and starting out in frontend development. I have some knowledge of HTML and CSS. I’m passionate about creating simple, clean, and user-friendly designs. I also enjoy bringing those designs to life with code.<br><br>Skills:<br>- UI/UX Design<br>- HTML5<br>- CSS3<br>- Responsive Design<br>- Wireframes & Prototypes<br><br>Currently learning:<br>- Advanced UI/UX principles<br>- Improving frontend development skills<br><br>I’m excited to learn, build, and grow in the design and web development field.
+Hi, I'm Narmadha devi.<br><br>I’m learning UI/UX design and starting out in frontend development. I have some knowledge of HTML and CSS. I’m passionate about creating simple, clean, and user-friendly designs. I also enjoy bringing those designs to life with code.<br><br>Skills:<br>- UI/UX Design<br>- HTML5<br>- CSS3<br>- Responsive Design<br>- Wireframes & Prototypes<br><br>Currently learning:<br>- Advanced UI/UX principles<br>- Improving frontend development skills<br><br>I’m excited to learn, build, and grow in the design and web development field.
 
 
 ## 🌐 Socials:
